@@ -22,7 +22,7 @@ class MyNavigationBar extends StatelessWidget {
             ),
           ),
           Text(
-            'Playing Now',
+            'Moodly',
             style: TextStyle(
                 fontSize: 20,
                 color: darkPrimaryColor,

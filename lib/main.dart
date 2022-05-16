@@ -9,7 +9,7 @@ import 'music/model/myaudio.dart';
 void main() {
   // runApp(MyApp());
   runApp(MaterialApp(
-    theme: ThemeData(fontFamily: 'Circular'),
+    theme: ThemeData(fontFamily: 'Circular', useMaterial3: true),
     debugShowCheckedModeBanner: false,
     home: ChangeNotifierProvider(create: (_) => MyAudio(), child: HomePage()),
   ));
