@@ -1,0 +1,4 @@
+Angry
+Happy
+Sad
+Normal
